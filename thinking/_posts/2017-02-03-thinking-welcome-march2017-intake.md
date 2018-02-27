@@ -12,7 +12,7 @@ image_credit: "Krissy Venosdale (CC BY-NC-ND 2.0)"
 image_source: "https://www.flickr.com/photos/venosdale/4853115285/"
 on_report: true
 ---
-We are delighted to welcome four new Fellows into the Shuttleworth Fellowship Programme: [Alasdair Davies](https://shuttleworthfoundation.org/fellows/alasdair-davies/), [Anasuya Sengupta](https://shuttleworthfoundation.org/fellows/anasuya-sengupta/), [Madeleine Ball](https://shuttleworthfoundation.org/fellows/madeleine-ball/) and [Tarek Loubani](https://shuttleworthfoundation.org/fellows/tarek-loubani/). The wonderful [Cory Doctorow](http://craphound.com/bio/) acted as the [Honorary Steward](https://shuttleworthfoundation.org/thinking/2016/10/05/thinking-Steward-Cory-Doctorow/) for this round of fellowship, making the final selection from the short-list. 
+We are delighted to welcome four new Fellows into the Shuttleworth Fellowship Programme: [Alasdair Davies](https://shuttleworthfoundation.org/fellows/alasdair-davies/), [Anasuya Sengupta](https://shuttleworthfoundation.org/fellows/anasuya-sengupta/), [Madeleine Ball](https://shuttleworthfoundation.org/fellows/mad-ball/) and [Tarek Loubani](https://shuttleworthfoundation.org/fellows/tarek-loubani/). The wonderful [Cory Doctorow](http://craphound.com/bio/) acted as the [Honorary Steward](https://shuttleworthfoundation.org/thinking/2016/10/05/thinking-Steward-Cory-Doctorow/) for this round of fellowship, making the final selection from the short-list.
 
 In the world, the new cohort brings openness to conversation technology, inclusivity on the web, genetic research and medical devices.  We are excited to learn with them as they progress upon their journeys.
 
